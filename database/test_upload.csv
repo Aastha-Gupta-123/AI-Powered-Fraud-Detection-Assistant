@@ -1,0 +1,21 @@
+transaction_id,amount,transaction_type,channel,transaction_date,merchant_name,location
+TXN_TEST_001,18500,transfer,online,2024-01-15T02:30:00,Western Union,Lagos Nigeria
+TXN_TEST_002,25000,withdrawal,atm,2024-01-15T03:15:00,Cash Advance ATM,Amsterdam Netherlands
+TXN_TEST_003,45,debit,pos,2024-01-15T13:00:00,Starbucks,New York NY
+TXN_TEST_004,120,debit,mobile,2024-01-15T10:30:00,Amazon,Chicago IL
+TXN_TEST_005,9800,transfer,online,2024-01-16T01:45:00,Bitcoin Exchange,Singapore
+TXN_TEST_006,35,debit,pos,2024-01-16T12:00:00,McDonald's,Houston TX
+TXN_TEST_007,15000,withdrawal,atm,2024-01-16T04:00:00,Unknown Merchant,Tokyo Japan
+TXN_TEST_008,200,credit,branch,2024-01-16T09:00:00,Salary Deposit,Dallas TX
+TXN_TEST_009,32000,transfer,online,2024-01-17T00:30:00,International Wire,Mumbai India
+TXN_TEST_010,89,debit,mobile,2024-01-17T11:00:00,Netflix,Los Angeles CA
+TXN_TEST_011,5500,transfer,online,2024-01-17T23:55:00,Foreign Exchange,London UK
+TXN_TEST_012,60,debit,pos,2024-01-17T14:30:00,CVS Pharmacy,Boston MA
+TXN_TEST_013,22000,withdrawal,atm,2024-01-18T02:00:00,Online Casino,Amsterdam Netherlands
+TXN_TEST_014,750,debit,online,2024-01-18T16:00:00,Delta Airlines,Atlanta GA
+TXN_TEST_015,19500,transfer,online,2024-01-18T03:30:00,Crypto Exchange,Singapore
+TXN_TEST_016,30,debit,pos,2024-01-18T08:00:00,Walmart,Seattle WA
+TXN_TEST_017,11000,transfer,online,2024-01-19T01:15:00,Western Union,Lagos Nigeria
+TXN_TEST_018,320,debit,mobile,2024-01-19T15:00:00,Best Buy,Miami FL
+TXN_TEST_019,45000,transfer,online,2024-01-19T02:45:00,Unknown Merchant,Tokyo Japan
+TXN_TEST_020,55,debit,pos,2024-01-19T12:30:00,Starbucks,Denver CO

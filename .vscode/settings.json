@@ -1,0 +1,7 @@
+{
+  "chat.disableAIFeatures": false,
+  "git.decorations.enabled": false,
+  "explorer.decorations.badges": false,
+  "explorer.decorations.colors": false,
+  "editor.renderLineHighlight": "none"
+}

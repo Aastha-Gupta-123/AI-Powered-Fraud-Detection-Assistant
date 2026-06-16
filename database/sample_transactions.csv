@@ -1,0 +1,16 @@
+transaction_id,amount,transaction_type,channel,transaction_date,merchant_name,location,is_fraud
+TXN20240101001,125.50,debit,online,2024-01-01 09:15:00,Amazon,New York NY,0
+TXN20240101002,8500.00,transfer,online,2024-01-01 02:30:00,International Wire,Lagos Nigeria,1
+TXN20240101003,45.00,debit,pos,2024-01-01 12:00:00,Starbucks,Chicago IL,0
+TXN20240101004,19999.00,withdrawal,atm,2024-01-01 03:45:00,Cash Advance ATM,Amsterdam Netherlands,1
+TXN20240101005,320.00,debit,mobile,2024-01-01 14:20:00,Best Buy,Seattle WA,0
+TXN20240101006,12500.00,transfer,online,2024-01-02 01:10:00,Bitcoin Exchange,Singapore,1
+TXN20240101007,55.00,debit,pos,2024-01-02 11:30:00,McDonald's,Boston MA,0
+TXN20240101008,6800.00,debit,online,2024-01-02 23:55:00,Unknown Merchant,Tokyo Japan,1
+TXN20240101009,200.00,credit,branch,2024-01-02 10:00:00,Salary Deposit,Dallas TX,0
+TXN20240101010,15000.00,transfer,online,2024-01-03 04:20:00,Western Union,Mumbai India,1
+TXN20240101011,89.99,debit,mobile,2024-01-03 09:45:00,Netflix,Los Angeles CA,0
+TXN20240101012,750.00,debit,online,2024-01-03 16:30:00,Delta Airlines,Atlanta GA,0
+TXN20240101013,22000.00,withdrawal,atm,2024-01-04 02:00:00,Online Casino,London UK,1
+TXN20240101014,35.00,debit,pos,2024-01-04 12:15:00,CVS Pharmacy,Houston TX,0
+TXN20240101015,9500.00,transfer,online,2024-01-04 00:30:00,Foreign Exchange,Amsterdam Netherlands,1
