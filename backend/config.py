@@ -29,4 +29,5 @@ class Config:
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     UPLOAD_FOLDER = os.path.join(os.path.dirname(__file__), 'uploads')
     MAX_CONTENT_LENGTH = 16 * 1024 * 1024
-    CORS_ORIGINS = ['http://localhost:5173', 'http://localhost:3000']
+    cors_env = os.environ.get('CORS_ORIGINS', 'http://localhost:5173,http://localhost:3000')
+    CORS_ORIGINS = [origin.strip() for origin in cors_env.split(',')]
